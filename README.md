@@ -1,6 +1,6 @@
 # Hi there, 👋 I am Hema Kiran
 
-FullStack Developer | App, UI, UX Developer | Exploring Curiosity 🚀
+FullStack Developer | Exploring Curiosity 🚀
 
 
 
