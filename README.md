@@ -1,6 +1,6 @@
 # Hi there, 👋 I am Hema Kiran
 
-FullStack Developer | Exploring Curiosity 🚀
+AI&ML Engineer | Exploring Curiosity 🚀
 
 
 
